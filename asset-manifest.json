@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/design-workshop/static/css/main.bc998225.chunk.css",
+    "main.js": "/design-workshop/static/js/main.64f04582.chunk.js",
+    "main.js.map": "/design-workshop/static/js/main.64f04582.chunk.js.map",
+    "runtime~main.js": "/design-workshop/static/js/runtime~main.d7211274.js",
+    "runtime~main.js.map": "/design-workshop/static/js/runtime~main.d7211274.js.map",
+    "static/js/2.060ec596.chunk.js": "/design-workshop/static/js/2.060ec596.chunk.js",
+    "static/js/2.060ec596.chunk.js.map": "/design-workshop/static/js/2.060ec596.chunk.js.map",
+    "index.html": "/design-workshop/index.html",
+    "precache-manifest.dead12fc8177f5fe1eb00ce1b91a37b1.js": "/design-workshop/precache-manifest.dead12fc8177f5fe1eb00ce1b91a37b1.js",
+    "service-worker.js": "/design-workshop/service-worker.js",
+    "static/css/main.bc998225.chunk.css.map": "/design-workshop/static/css/main.bc998225.chunk.css.map",
+    "static/media/logo.svg": "/design-workshop/static/media/logo.2999d855.svg"
+  }
+}
