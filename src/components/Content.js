@@ -14,7 +14,7 @@ export class Content extends PureComponent {
                   );
               })}
               <div className={styles.buttonWrapper}>
-                  <Button size='s'>Показать еще</Button>
+                  <Button size='l'>Показать еще</Button>
               </div>
           </div>
         )

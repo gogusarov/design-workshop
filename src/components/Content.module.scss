@@ -4,7 +4,6 @@
 
 .buttonWrapper {
   padding: 20px 0;
-  text-align: center;
 }
 
 .timelineWrapper {
@@ -13,7 +12,6 @@
 }
 
 .operation {
-  padding: 10px;
   border-bottom: 1px solid var(--operation-border-color);
 }
 
@@ -24,7 +22,6 @@
 
 .operationLogo {
   border-radius: 50%;
-  overflow: hidden;
 
   img {
     display: block;
@@ -42,10 +39,6 @@
   margin: 5px 0;
 }
 
-.operationCard, .operationCategory {
-  color: var(--operation-secondary-text-color);
-}
-
 .addition {
   color: var(--addition-color)
 }
@@ -57,7 +50,5 @@
 
 .commentText {
   margin: 0;
-  padding: 5px 10px;
   border-radius: 4px;
-  background: var(--comment-background-color);
 }
