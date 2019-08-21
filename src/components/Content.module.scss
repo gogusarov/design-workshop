@@ -1,0 +1,63 @@
+.content {
+  flex-grow: 1;
+}
+
+.buttonWrapper {
+  padding: 20px 0;
+  text-align: center;
+}
+
+.timelineWrapper {
+  width: var(--layout-width);
+  margin: 0 auto;
+}
+
+.operation {
+  padding: 10px;
+  border-bottom: 1px solid var(--operation-border-color);
+}
+
+.operationContent {
+  display: flex;
+  align-items: center;
+}
+
+.operationLogo {
+  border-radius: 50%;
+  overflow: hidden;
+
+  img {
+    display: block;
+  }
+}
+
+.operationDetails {
+  flex-grow: 1;
+  margin-left: 10px;
+}
+
+.operationRow {
+  display: flex;
+  justify-content: space-between;
+  margin: 5px 0;
+}
+
+.operationCard, .operationCategory {
+  color: var(--operation-secondary-text-color);
+}
+
+.addition {
+  color: var(--addition-color)
+}
+
+.operationComment {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.commentText {
+  margin: 0;
+  padding: 5px 10px;
+  border-radius: 4px;
+  background: var(--comment-background-color);
+}

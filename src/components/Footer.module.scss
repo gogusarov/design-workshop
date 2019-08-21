@@ -1,0 +1,29 @@
+.footer {
+  padding: 20px 0;
+  color: var(--footer-text-color);
+  background-color: var(--footer-bg-color);
+}
+
+.footerItems {
+  width: var(--layout-width);
+  display: flex;
+  margin: 0 auto;
+  justify-content: space-between;
+}
+
+.subpoints {
+  padding-top: 10px;
+}
+
+.subpointTitle {
+  font-size: 13px;
+}
+
+.subpointItem {
+  margin-bottom: 8px;
+
+  &:hover {
+    color: var(--primary-text-color);
+    cursor: pointer;
+  }
+}

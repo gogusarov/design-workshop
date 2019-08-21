@@ -1,0 +1,16 @@
+.button {
+  background: var(--button-background-color);
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.size_s {
+  padding: 10px 15px;
+  font-size: 14px;
+}
+
+.size_l {
+  padding: 15px 20px;
+  font-size: 18px;
+}
